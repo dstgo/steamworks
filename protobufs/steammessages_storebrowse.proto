@@ -3,6 +3,7 @@ import "steammessages_base.proto";
 import "steammessages_unified_base.proto";
 import "enums_productinfo.proto";
 import "enums.proto";
+option go_package = "github.com/dstgo/steamworks/message;message";
 
 option py_generic_services = true;
 

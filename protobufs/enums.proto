@@ -5,6 +5,9 @@ option optimize_for = SPEED;
 option py_generic_services = true;
 option (force_php_generation) = true;
 
+option go_package = "github.com/dstgo/steamworks/message;message";
+
+
 enum EPublishedFileQueryType {
 	k_PublishedFileQueryType_RankedByVote = 0;
 	k_PublishedFileQueryType_RankedByPublicationDate = 1;

@@ -1,4 +1,6 @@
 syntax = "proto2";
+option go_package = "github.com/dstgo/steamworks/message;message";
+
 message Offline_Ticket {
 	optional bytes encrypted_ticket = 1;
 	optional bytes signature = 2;
