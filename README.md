@@ -1,5 +1,5 @@
-# steamwork
-`steamwork` is a package for interacting with steam network written in golang, imitated from [ValvePython/steam](https://github.com/ValvePython/steam).
+# steamworks
+`steamworks` is a package for interacting with steam network written in golang, imitated from [ValvePython/steam](https://github.com/ValvePython/steam).
 
 know more information to access steamworks reference: [Steamworks Documentation](https://partner.steamgames.com/doc/home).
 
