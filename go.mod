@@ -1,3 +1,3 @@
-module github.com/dstgo/steamwork
+module github.com/dstgo/steamworks
 
 go 1.22.0
